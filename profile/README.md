@@ -1,12 +1,33 @@
-# CandleMC  
+# 🕯️ CandleMC - Fast. Lightweight. Flexible.
+*Engine-first design for speed, simplicity & innovation*
 
-CandleMC is a high-performance, secure, and flexible Minecraft server software designed to enhance the gameplay experience without the need for external plugins. It offers powerful built-in customization options and multiple configurations to suit different server needs.
+[![Discord](https://img.shields.io/badge/Join_Development-Discord-5865f2?style=for-the-badge&logo=discord)](https://discord.gg/invite/a8Sj3dUcB4)
 
-## Getting Started
-- Learn more at [candlemc.net](https://candlemc.net)  
-- Download the latest releases from our [GitHub Releases](https://github.com/CandleMinecraft/Candle/releases)
-- Join our community on Discord:  
+---
 
-<a href="https://discord.gg/invite/a8Sj3dUcB4">  
-         <img alt="CandleMC Discord" src="https://discord.com/api/guilds/1278754575687618670/widget.png?style=banner2">  
-</a>  
+### 🚩 Why We Build
+Two developers challenging the status quo:
+- 📉 **No more bloat** - 8GB RAM for 10 players? Never again
+- 🧩 **Modern API** - 10 lines instead of 100 for basic features
+- 🏗️ **Clean core** - Modular design over legacy monoliths
+
+---
+
+### 🔥 Core Design
+- 🚀 **Speed First**  
+  Rewriting chunk/entity systems from scratch
+- 🧠 **Simplicity Matters**  
+  Type-safe API • Hot-reload • Zero boilerplate
+- 🧩 **Modular Foundation**  
+  Core ↔ Addons separation (install only what you need)
+
+---
+
+### 👷 Contribution Early Access
+**Help shape fundamentals:**
+- `Java 21+` Wizards → Core architecture
+- Community Leads → Guide project direction
+- Doc Specialists → Build knowledge base
+
+*Even small actions matter:*  
+⭐ Star the repo • 💬 Join [Discord](https://discord.gg/invite/a8Sj3dUcB4) • 🐛 Report issues
