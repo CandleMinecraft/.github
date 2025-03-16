@@ -25,7 +25,7 @@ Two developers challenging the status quo:
 
 ### 👷 Contribution Early Access
 **Help shape fundamentals:**
-- `Java 23+` Wizards → Core architecture
+- `Java 21+` Wizards → Core architecture
 - Community Leads → Guide project direction
 - Doc Specialists → Build knowledge base
 
