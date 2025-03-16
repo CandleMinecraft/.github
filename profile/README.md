@@ -4,7 +4,7 @@ CandleMC is a high-performance, secure, and flexible Minecraft server software d
 
 ## Getting Started
 - Learn more at [candlemc.net](https://candlemc.net)  
-- Download the latest releases from our GitHub Releases
+- Download the latest releases from our [GitHub Releases](https://github.com/CandleMinecraft/Candle/releases)
 - Join our community on Discord:  
 
 <a href="https://discord.gg/invite/a8Sj3dUcB4">  
